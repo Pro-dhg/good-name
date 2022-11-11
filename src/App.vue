@@ -8,7 +8,7 @@
     <!--    表单-->
     <el-form ref="form" :model="form">
       <el-form-item label="个人昵称或IP">
-        <el-input v-model="form.name" placeholder="如：鱼皮"></el-input>
+        <el-input v-model="form.name" placeholder="如：托尔"></el-input>
       </el-form-item>
       <el-form-item label="编程语言/方向">
         <el-input v-model="form.domain" placeholder="如：Java、全栈、编程"></el-input>
@@ -26,8 +26,8 @@
       </el-tag>
     </div>
     <div class="footer">
-      <a href="https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png" target="_blank" class="copyright">
-        by 程序员鱼皮
+      <a href="https://github.com/Pro-dhg/" target="_blank" class="copyright">
+        by Pro-dhg
       </a>
     </div>
   </div>
