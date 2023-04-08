@@ -1,4 +1,4 @@
-# 🤔 编程好名生成器
+# good name
 
 > 基于 Vue + ElementUI 的轻应用，解决取名难题！
 
