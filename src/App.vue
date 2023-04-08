@@ -8,7 +8,7 @@
     <!--    表单-->
     <el-form ref="form" :model="form">
       <el-form-item label="个人昵称或IP">
-        <el-input v-model="form.name" placeholder="如：托尔"></el-input>
+        <el-input v-model="form.name" placeholder="如：Aiden"></el-input>
       </el-form-item>
       <el-form-item label="编程语言/方向">
         <el-input v-model="form.domain" placeholder="如：Java、全栈、编程"></el-input>
